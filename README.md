@@ -1,6 +1,7 @@
 # 💫 About Me:
 A passionate programmer working and exploring in the field of AI and DATA<br>I'm currently learning ML with python
 
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/ashish-srivastava-a277b0253) 
