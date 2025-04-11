@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate programmer working and exploring in the field of AI and DATA<br>I'm currently learning ML with python
+A passionate programmer working and exploring in the field of AI and DATA<br>I'm currently learning ML with python and learning about GEN AI
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
